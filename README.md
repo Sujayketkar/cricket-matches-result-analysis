@@ -12,10 +12,13 @@ o	Match_result: The outcome of the match between team1 and team2. This column ca
 o	Winning Team: Awarded 3 points.
 o	No Result: Each team receives 1 point.
 
-Desired Output: The goal is to create a new table with the following columns:
+Desired Output:
+The goal is to create a new table with the following columns:
+
 •	team: Name of the cricket team.
 •	wins: Total number of matches won by the team.
 •	losses: Total number of matches lost by the team.
 •	no_result: Total number of matches that ended in a draw or were abandoned.
 •	total_points: Total points accumulated by the team based on wins and no results.
+
 This new table will provide a comprehensive overview of each team's performance, including wins, losses, draws/abandonments, and total points earned.
